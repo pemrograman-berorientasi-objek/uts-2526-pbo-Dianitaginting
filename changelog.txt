@@ -1,0 +1,3 @@
+Jika ada eror pada code saya maka saya akan mencari solusi untuk memperbaiki atau menyempurnakan code saya agar sesuai dengan soal yang diminta
+Tipe soal lumayan sulit untuk dimengerti dan sedikit sulit menyusun codenya dan soal harus terus dibaca agar mudah dipahami
+Code harus disusun harus sesuai dengan soal agar sesuai dengan input serta outputnya
